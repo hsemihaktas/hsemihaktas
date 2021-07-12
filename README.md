@@ -4,7 +4,7 @@
 <div>
     <p align="center">
         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&layout=compact&theme=great-gatsby">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&layout=compact&theme=chartreuse-dark" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihasdsdsktas&layout=compact&theme=chartreuse-dark" />
         </a>
     </p>
 </div>
@@ -13,7 +13,7 @@
 <div>
     <p align="center">
         <a href="https://github-readme-stats.vercel.app/api?username=hsemihaktas&show_icons=true&theme=great-gatsby">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&show_icons=true&theme=chartreuse-dark" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsemihsdsaktas&show_icons=true&theme=chartreuse-dark" />
         </a>
     </p>
 </div>
