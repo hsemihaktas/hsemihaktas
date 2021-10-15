@@ -26,7 +26,7 @@
   <a href="mailto:info.hsemihaktas@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Mail-info.hsemihaktas@gmail.com-success?style=flat&logo=gmail"></a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/hsemihakts/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hsemihaktas-success?style=flat&logo=instagram"></a>
+  <a href="https://www.instagram.com/hsemihakts/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hsemihakts-success?style=flat&logo=instagram"></a>
   <a href="https://twitter.com/hsemihaktas" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-hsemihaktas-success?style=flat&logo=Twitter"></a>
   <a href="https://www.linkedin.com/in/hsemihaktas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hsemihaktas-success?style=flat&logo=linkedin"></a>
 </p>
