@@ -23,7 +23,7 @@
 My university life started in 2019-2020 in the Department of Computer Engineering at Sakarya University. I studied C#, C++, Html, Css and JavaScript here. In 2020-2021, I moved to Istanbul Medeniyet University. I'm studying C and Java here. When I was writing this site, I moved to 3rd grade at Istanbul Medeniyet University. I want to be a front-end developer or full-stack developer in the future.  
  
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td width="50%">
 
 - 🔭 I’m currently working on Front End Developer.  
   
