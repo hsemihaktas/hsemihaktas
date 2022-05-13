@@ -2,14 +2,11 @@
   
 
 <div align="center">
-<a href="https://github.com/hsemihaktas" target="_blank">
-<img src=https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:hsemihaktas@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/hsemihaktas" target="_blank">
-<img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://github.com/hsemihaktas" target="_blank">
+<img src=https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/hsemihaktas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -17,6 +14,9 @@
 <a href="https://instagram.com/hsemihaktas" target="_blank">
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://twitter.com/hsemihaktas" target="_blank">
+<img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
