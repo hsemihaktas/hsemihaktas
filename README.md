@@ -28,7 +28,7 @@ My university life started in 2019-2020 in the Department of Computer Engineerin
 - 🔭 I’m currently working on Front End Developer.  
   
 
-- 🌱 I’m currently learning React and Typescript.  
+- 👩‍💻 I’m currently learning React and Typescript.  
 
 
 </td><td valign="top" width="50%">
