@@ -1,25 +1,4 @@
-## Hey 👋, I'm Hasan Semih AKTAŞ!  
-  
-
-<div align="center">
-<a href="mailto:hsemihaktas@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/hsemihaktas" target="_blank">
-<img src=https://img.shields.io/badge/github-100000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hsemihaktas" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/hsemihaktas" target="_blank">
-<img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
-
-## Glad to see you here!  
+## Hey 👋, I'm Rewo!  
 My university life started in 2019-2020 in the Department of Computer Engineering at Sakarya University. I studied C#, C++, Html, Css and JavaScript here. In 2020-2021, I moved to Istanbul Medeniyet University. I'm studying C and Java here. I graduated from Istanbul Medeniyet University in 2023. I want to be a full-stack developer in the future.  
  
 ## Rapidfire  
@@ -56,7 +35,7 @@ My university life started in 2019-2020 in the Department of Computer Engineerin
 
 ## Github Stats 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rewokun&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewokun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 40%" />
 </div>
 
