@@ -1,5 +1,5 @@
 ## Hey 👋, I'm SemiH!  
-My university life started in 2019-2020 in the Department of Computer Engineering at Sakarya University. I studied C#, C++, Html, Css and JavaScript here. In 2020-2021, I moved to Istanbul Medeniyet University. I'm studying C and Java here. I graduated from Istanbul Medeniyet University in 2023. I want to be a full-stack developer in the future.  
+My academic journey commenced during the 2019-2020 academic year at Sakarya University, where I delved into the world of C#, C++, HTML, CSS, and JavaScript. During the subsequent academic year (2020-2021), I transferred to Istanbul Medeniyet University, where I dedicated my efforts to honing my knowledge of JavaScript and ReactJS. Following successful completion of my university, I obtained my degree in 2023. Looking ahead, my ultimate aim is to become a proficient full-stack developer or game developer.
  
 ## Rapidfire  
 <tr><td width="50%">
