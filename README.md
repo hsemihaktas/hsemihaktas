@@ -35,7 +35,7 @@ My academic journey commenced during the 2019-2020 academic year at Sakarya Univ
 
 ## Github Stats 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rewokun&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewokun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 40%" />
 </div>
 
