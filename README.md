@@ -1,5 +1,5 @@
 ## Hey 👋, I'm SemiH!  
-My academic journey commenced during the 2019-2020 academic year at Sakarya University, where I delved into the world of C#, C++, HTML, CSS, and JavaScript. During the subsequent academic year (2020-2021), I transferred to Istanbul Medeniyet University, where I dedicated my efforts to honing my knowledge of JavaScript and ReactJS. Following successful completion of my university, I obtained my degree in 2023. Looking ahead, my ultimate aim is to become a proficient full-stack developer or game developer.
+I entered the world of computer engineering in 2019 by winning the Computer Engineering department of Sakarya University. After studying at Sakarya University for 1 year, I transferred to Istanbul Medeniyet University. I have seen various software languages in my university life. Among these software languages, I saw ReactJS and NodeJS as close to myself and I am trying to improve myself in these areas.
  
 ## Rapidfire  
 <tr><td width="50%">
