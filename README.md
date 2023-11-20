@@ -1,7 +1,4 @@
 ## Hey 👋, I'm SemiH!  
-I entered the world of computer engineering in 2019 by winning the Computer Engineering department of Sakarya University. After studying at Sakarya University for 1 year, I transferred to Istanbul Medeniyet University. I have seen various software languages in my university life. Among these software languages, I saw ReactJS and NodeJS as close to myself and I am trying to improve myself in these areas.
- 
-## Rapidfire  
 <tr><td width="50%">
 
 - 🔭 I’m currently working on Front End Developer.  
