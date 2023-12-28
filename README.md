@@ -4,7 +4,13 @@
 - 🔭 I’m currently working on Front End Developer.  
   
 
-- 👩‍💻 I’m currently learning React and Typescript.  
+- 👩‍💻 I’m currently learning React and Typescript.
+
+
+- 📭 Mail me [hsemihaktas@gmail.com](mailto:hsemihaktas@gmail.com)
+
+
+- 🌐 Portfolio [hsemihaktas.vercel.app/](https://hsemihaktas.vercel.app/)  
 
 
 </td><td valign="top" width="50%">
