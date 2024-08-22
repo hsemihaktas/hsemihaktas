@@ -1,11 +1,6 @@
 ## Hey 👋, I'm SemiH!  
 <tr><td width="50%">
 
-- 🔭 I’m currently working on Front End Developer.  
-  
-
-- 👩‍💻 I’m currently learning React and Typescript.
-
 
 - 📭 Mail me [hsemihaktas@gmail.com](mailto:hsemihaktas@gmail.com)
 
