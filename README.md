@@ -36,8 +36,8 @@
 
 ## Github Stats 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 49%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 39%" />
 </div>
 
 ###
