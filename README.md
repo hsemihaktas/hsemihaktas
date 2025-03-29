@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQF4ejkF8aHH5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737028393495?e=1742428800&v=beta&t=fiAo9rnOeFXlDdCJwePVgtSDZfTCcE4aKKjbMQZxjB0"  />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQF4ejkF8aHH5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737028393495?e=1748476800&v=beta&t=J6C7ypafkN7aNrNfVRvEEFXe8TdLqdwBkPZ_cmD5a4A"  />
 <br clear="both">
 <h1> Hey 👋, I'm Semih!  </h1>
 <tr><td width="50%">
