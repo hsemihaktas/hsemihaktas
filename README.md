@@ -16,7 +16,6 @@
 
 ## Languages and Tools  
 <div>  
-<p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
@@ -33,12 +32,6 @@
 </p>
 
 </div>  
-
-## Github Stats 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="width: 49%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsemihaktas&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 39%" />
-</div>
 
 ###
 
