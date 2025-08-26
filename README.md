@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/hsemihaktas/My-Website/blob/master/public/images/banner.jpeg?raw=true"  />
+<img align="center" src="https://github.com/hsemihaktas/My-Website/blob/master/public/images/banner.png?raw=true"  />
 <br clear="both">
 <h1> Hey 👋, I'm Semih!  </h1>
 <tr><td width="50%">
