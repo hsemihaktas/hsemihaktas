@@ -9,7 +9,7 @@
 
 - 🌐 Portfolio [hsemihaktas.vercel.app/](https://hsemihaktas.vercel.app/)  
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native Expo
 
 
 </td><td valign="top" width="50%">
