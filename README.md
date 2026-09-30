@@ -7,7 +7,7 @@
 <h1>Hasan Semih Aktaş 👋</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=760&duration=2500&lines=Mobile+%26+Full-Stack+Developer,React+Native+%2B+Expo+specialist,Building+AI-powered+apps,Shipping+to+App+Store+and+Google+Play" alt="Mobile and Full-Stack Developer" width="760">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=760&duration=2500&lines=Mobile+%26+Full-Stack+Developer" alt="Mobile and Full-Stack Developer" width="760">
 </p>
 
 <p>
