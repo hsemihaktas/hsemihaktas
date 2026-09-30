@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.webp" alt="" width="100%">
+  <img src="assets/hero.png" alt="" width="100%">
 </div>
 
 <div align="center">
@@ -82,13 +82,13 @@ Store and Google Play rather than stopping at a prototype.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/personal-website.webp" width="100%" alt="Personal website"></a>
+      <a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/personal-website.png" width="100%" alt="Personal website"></a>
       <h3>Personal Website</h3>
       <p>My portfolio and the place most of my side experiments end up.</p>
       <p><a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="assets/projects/effease.webp" width="100%" alt="Effease">
+      <img src="assets/projects/effease.jpeg" width="100%" alt="Effease">
       <h3>Effease — AI Photo Studio</h3>
       <p>AI photo editor with 50+ real-time transformations built on Google Gemini 2.5 Flash. Live on iOS, Android and web.</p>
       <p><code>React Native</code> <code>Expo</code> <code>Supabase</code></p>
@@ -99,13 +99,13 @@ Store and Google Play rather than stopping at a prototype.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="assets/projects/encrypt-dairy.webp" width="100%" alt="Encrypt Diary">
+      <img src="assets/projects/encrypt-dairy.png" width="100%" alt="Encrypt Diary">
       <h3>Encrypt Diary</h3>
       <p>Privacy-first notes with AES-256 encryption via <code>expo-crypto</code> and key-based access control.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/ataturk-history.webp" width="100%" alt="Atatürk History"></a>
+      <a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/ataturk-history.png" width="100%" alt="Atatürk History"></a>
       <h3>Atatürk History</h3>
       <p>An interactive timeline of Atatürk's life and the early Turkish Republic.</p>
       <p><code>Next.js</code> <code>TailwindCSS</code> <code>Maps</code></p>
@@ -116,13 +116,13 @@ Store and Google Play rather than stopping at a prototype.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://rewound.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/rewound.webp" width="100%" alt="Rewound"></a>
+      <a href="https://rewound.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/rewound.png" width="100%" alt="Rewound"></a>
       <h3>Rewound</h3>
       <p>My portfolio and writing — a home for the things I build after hours.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="assets/projects/loki-history.webp" width="100%" alt="Loki History">
+      <img src="assets/projects/loki-history.png" width="100%" alt="Loki History">
       <h3>Loki History</h3>
       <p>A cinematic dive into Norse mythology with an interactive genealogy tree and parallax storytelling.</p>
       <p><code>Next.js 16</code> <code>TailwindCSS 4</code></p>
