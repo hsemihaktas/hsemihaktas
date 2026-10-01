@@ -190,13 +190,7 @@ Store and Google Play rather than stopping at a prototype.
 ---
 
 <p align="center">
-  <a href="mailto:hsemihaktas@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Email-hsemihaktas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/hsemihaktas" target="_blank" rel="noopener">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-hsemihaktas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/hsemihaktas" target="_blank" rel="noopener">
-    <img height="32" src="https://img.shields.io/badge/GitHub-hsemihaktas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="mailto:hsemihaktas@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-hsemihaktas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/LinkedIn-hsemihaktas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/GitHub-hsemihaktas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
