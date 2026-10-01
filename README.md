@@ -10,16 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=760&duration=2500&lines=Mobile+%26+Full-Stack+Developer" alt="Mobile and Full-Stack Developer" width="760">
 </p>
 
-<p>
-  <a href="https://github.com/hsemihaktas" target="_blank" rel="noopener">
-    <img height="28" src="https://img.shields.io/badge/GitHub-hsemihaktas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/hsemihaktas" target="_blank" rel="noopener">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-hsemihaktas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hsemihaktas@gmail.com">
-    <img height="28" src="https://img.shields.io/badge/Email-hsemihaktas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p align="center">
+<a href="mailto:hsemihaktas@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-hsemihaktas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/LinkedIn-hsemihaktas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/GitHub-hsemihaktas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p>
@@ -89,10 +83,11 @@ Store and Google Play rather than stopping at a prototype.
       <p><a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="assets/projects/effease.webp" width="100%" alt="Effease">
+      <a href="https://play.google.com/store/apps/details?id=com.repackstudio.effease&amp;hl=tr" target="_blank" rel="noopener"><img src="assets/projects/effease.webp" width="100%" alt="Effease"></a>
       <h3>Effease — AI Photo Studio</h3>
       <p>AI photo editor with 50+ real-time transformations built on Google Gemini 2.5 Flash. Live on iOS, Android and web.</p>
       <p><code>React Native</code> <code>Expo</code> <code>Supabase</code></p>
+      <p><a href="https://play.google.com/store/apps/details?id=com.repackstudio.effease&amp;hl=tr" target="_blank" rel="noopener">Google Play</a> &middot; <a href="https://apps.apple.com/tr/app/effease-ai-photo-studio/id6756782812?l=tr" target="_blank" rel="noopener">App Store</a></p>
     </td>
   </tr>
 </table>
@@ -188,9 +183,3 @@ Store and Google Play rather than stopping at a prototype.
 </details>
 
 ---
-
-<p align="center">
-<a href="mailto:hsemihaktas@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-hsemihaktas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/LinkedIn-hsemihaktas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/hsemihaktas" target="_blank" rel="noopener"><img height="32" src="https://img.shields.io/badge/GitHub-hsemihaktas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
