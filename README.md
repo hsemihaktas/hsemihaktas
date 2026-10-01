@@ -85,6 +85,7 @@ Store and Google Play rather than stopping at a prototype.
       <a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/personal-website.png" width="100%" alt="Personal website"></a>
       <h3>Personal Website</h3>
       <p>My portfolio and the place most of my side experiments end up.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
       <p><a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -109,6 +110,7 @@ Store and Google Play rather than stopping at a prototype.
       <h3>Atatürk History</h3>
       <p>An interactive timeline of Atatürk's life and the early Turkish Republic.</p>
       <p><code>Next.js</code> <code>TailwindCSS</code> <code>Maps</code></p>
+      <p><a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
   </tr>
 </table>
@@ -120,12 +122,14 @@ Store and Google Play rather than stopping at a prototype.
       <h3>Rewound</h3>
       <p>My portfolio and writing — a home for the things I build after hours.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
+      <p><a href="https://rewound.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="assets/projects/loki-history.png" width="100%" alt="Loki History">
+      <a href="https://loki-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/loki-history.png" width="100%" alt="Loki History"></a>
       <h3>Loki History</h3>
       <p>A cinematic dive into Norse mythology with an interactive genealogy tree and parallax storytelling.</p>
       <p><code>Next.js 16</code> <code>TailwindCSS 4</code></p>
+      <p><a href="https://loki-history.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
   </tr>
 </table>
