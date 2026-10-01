@@ -1,0 +1,18 @@
+# macOS sistem dosyaları
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editör & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
