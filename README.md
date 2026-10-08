@@ -34,7 +34,7 @@ Store and Google Play rather than stopping at a prototype.
 - 🔭 Currently building — _AI-powered mobile apps with Google Gemini & on-device models_
 - 🌱 Currently learning — _computer vision, edge functions, and better model integration_
 - 💬 Ask me about — _React Native, Expo, TypeScript, Next.js, LLM integration, CI/CD_
-- 📂 My projects — _most of my work lives at [github.com/Rewosama](https://github.com/Rewosama)_
+- 📂 Open source & mirrors — _some of my public projects live under my handle [@Rewosama](https://github.com/Rewosama)_
 - ⚡ Fun fact — _I spent a whole sprint making one transition feel right. It was worth it._
 
 ---
