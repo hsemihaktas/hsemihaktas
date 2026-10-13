@@ -77,11 +77,11 @@ Store and Google Play rather than stopping at a prototype.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/hsemihaktas/Magpie" target="_blank" rel="noopener"><img src="assets/projects/magpie.webp" width="100%" alt="Magpie"></a>
+      <a href="https://magpie.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/magpie.webp" width="100%" alt="Magpie"></a>
       <h3>Magpie</h3>
       <p>Chrome extension + PWA to archive posts from Instagram, X and Threads into personal collections with tagging and comments.</p>
       <p><code>Next.js</code> <code>Supabase</code> <code>Chrome Extension MV3</code></p>
-      <p><a href="https://github.com/hsemihaktas/Magpie" target="_blank" rel="noopener">GitHub ↗</a></p>
+      <p><a href="https://magpie.vercel.app/" target="_blank" rel="noopener">Visit ↗</a> &middot; <a href="https://github.com/hsemihaktas/Magpie" target="_blank" rel="noopener">GitHub ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/personal-website.webp" width="100%" alt="Personal website"></a>
