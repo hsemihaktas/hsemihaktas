@@ -77,12 +77,24 @@ Store and Google Play rather than stopping at a prototype.
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
+      <a href="https://github.com/hsemihaktas/Magpie" target="_blank" rel="noopener"><img src="assets/projects/magpie.webp" width="100%" alt="Magpie"></a>
+      <h3>Magpie</h3>
+      <p>Chrome extension + PWA to archive posts from Instagram, X and Threads into personal collections with tagging and comments.</p>
+      <p><code>Next.js</code> <code>Supabase</code> <code>Chrome Extension MV3</code></p>
+      <p><a href="https://github.com/hsemihaktas/Magpie" target="_blank" rel="noopener">GitHub ↗</a></p>
+    </td>
+    <td width="50%" valign="top" align="center">
       <a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/personal-website.webp" width="100%" alt="Personal website"></a>
       <h3>Personal Website</h3>
       <p>My portfolio and the place most of my side experiments end up.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
       <p><a href="https://hsemihaktas.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://play.google.com/store/apps/details?id=com.repackstudio.effease&amp;hl=tr" target="_blank" rel="noopener"><img src="assets/projects/effease.webp" width="100%" alt="Effease"></a>
       <h3>Effease — AI Photo Studio</h3>
@@ -90,35 +102,23 @@ Store and Google Play rather than stopping at a prototype.
       <p><code>React Native</code> <code>Expo</code> <code>Supabase</code></p>
       <p><a href="https://play.google.com/store/apps/details?id=com.repackstudio.effease&amp;hl=tr" target="_blank" rel="noopener">Google Play</a> &middot; <a href="https://apps.apple.com/tr/app/effease-ai-photo-studio/id6756782812?l=tr" target="_blank" rel="noopener">App Store</a></p>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width="50%" valign="top" align="center">
       <img src="assets/projects/encrypt-dairy.webp" width="100%" alt="Encrypt Diary">
       <h3>Encrypt Diary</h3>
       <p>Privacy-first notes with AES-256 encryption via <code>expo-crypto</code> and key-based access control.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/ataturk-history.webp" width="100%" alt="Atatürk History"></a>
-      <h3>Atatürk History</h3>
-      <p>An interactive timeline of Atatürk's life and the early Turkish Republic.</p>
-      <p><code>Next.js</code> <code>TailwindCSS</code> <code>Maps</code></p>
-      <p><a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
-    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://rewound.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/rewound.webp" width="100%" alt="Rewound"></a>
-      <h3>Rewound</h3>
-      <p>My portfolio and writing — a home for the things I build after hours.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
-      <p><a href="https://rewound.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
+      <a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/ataturk-history.webp" width="100%" alt="Atatürk History"></a>
+      <h3>Atatürk History</h3>
+      <p>An interactive timeline of Atatürk's life and the early Turkish Republic.</p>
+      <p><code>Next.js</code> <code>TailwindCSS</code> <code>Maps</code></p>
+      <p><a href="https://ataturk-history.vercel.app/" target="_blank" rel="noopener">Visit ↗</a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://loki-history.vercel.app/" target="_blank" rel="noopener"><img src="assets/projects/loki-history.webp" width="100%" alt="Loki History"></a>
